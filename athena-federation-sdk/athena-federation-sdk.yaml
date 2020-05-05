@@ -10,7 +10,11 @@ Metadata:
     Labels:
       - athena-federation
     HomePageUrl: 'https://github.com/awslabs/aws-athena-query-federation'
+<<<<<<< Updated upstream
     SemanticVersion: 2020.18.1
+=======
+    SemanticVersion: 2020.20.1
+>>>>>>> Stashed changes
     SourceCodeUrl: 'https://github.com/awslabs/aws-athena-query-federation'
 Parameters:
   AthenaCatalogName:
